@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "io.github.arvinmemaphu_beep.twa",
     "sha256_cert_fingerprints": [
-      "70:4E:8D:70:A7:A6:B1:6A:4D:F3:51:57:6E:7A:5A:1C:4B:2B:29:64:F5:C0:1B:DA:7A:7C:CB:EB:DB:40:E3:82"
+      "70:4E:8D:70:A7:A6:B1:6A:4D:F3:51:57:6E:7A:5A:1C:4B:2B:29:64:F5:C0:1B:DA:7A:7C:CB:EB:DB:40:E3:82",
+      "FF:C6:12:E8:2B:59:08:2D:67:1B:B6:F3:36:82:E4:37:FB:1D:06:EA:FC:91:23:EF:EB:F3:98:B6:84:14:64:68"
     ]
   }
 }]
